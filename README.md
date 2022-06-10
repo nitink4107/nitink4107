@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @nitink4107
+- 👋 Hi, I’m Nitin Kaushal
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Javascript and Nodejs
 - 📫 How to reach me @ nitink4107@gmail.com
